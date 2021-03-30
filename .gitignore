@@ -1,3 +1,6 @@
 telegram/token.rb
 telegram/.byebug_history
 .idea
+ruby/.byebug_history
+ruby/.ruby-version
+ruby/Gemfile.lock
